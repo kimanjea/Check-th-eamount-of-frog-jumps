@@ -1,0 +1,14 @@
+C:\Users\13608\Documents\GitHub\Check-th-eamount-of-frog-jumps\bin\Debug\net8.0\Check-th-eamount-of-frog-jumps.exe
+C:\Users\13608\Documents\GitHub\Check-th-eamount-of-frog-jumps\bin\Debug\net8.0\Check-th-eamount-of-frog-jumps.deps.json
+C:\Users\13608\Documents\GitHub\Check-th-eamount-of-frog-jumps\bin\Debug\net8.0\Check-th-eamount-of-frog-jumps.runtimeconfig.json
+C:\Users\13608\Documents\GitHub\Check-th-eamount-of-frog-jumps\bin\Debug\net8.0\Check-th-eamount-of-frog-jumps.dll
+C:\Users\13608\Documents\GitHub\Check-th-eamount-of-frog-jumps\bin\Debug\net8.0\Check-th-eamount-of-frog-jumps.pdb
+C:\Users\13608\Documents\GitHub\Check-th-eamount-of-frog-jumps\obj\Debug\net8.0\Check-th-eamount-of-frog-jumps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13608\Documents\GitHub\Check-th-eamount-of-frog-jumps\obj\Debug\net8.0\Check-th-eamount-of-frog-jumps.AssemblyInfoInputs.cache
+C:\Users\13608\Documents\GitHub\Check-th-eamount-of-frog-jumps\obj\Debug\net8.0\Check-th-eamount-of-frog-jumps.AssemblyInfo.cs
+C:\Users\13608\Documents\GitHub\Check-th-eamount-of-frog-jumps\obj\Debug\net8.0\Check-th-eamount-of-frog-jumps.csproj.CoreCompileInputs.cache
+C:\Users\13608\Documents\GitHub\Check-th-eamount-of-frog-jumps\obj\Debug\net8.0\Check-th-eamount-of-frog-jumps.dll
+C:\Users\13608\Documents\GitHub\Check-th-eamount-of-frog-jumps\obj\Debug\net8.0\refint\Check-th-eamount-of-frog-jumps.dll
+C:\Users\13608\Documents\GitHub\Check-th-eamount-of-frog-jumps\obj\Debug\net8.0\Check-th-eamount-of-frog-jumps.pdb
+C:\Users\13608\Documents\GitHub\Check-th-eamount-of-frog-jumps\obj\Debug\net8.0\Check-th-eamount-of-frog-jumps.genruntimeconfig.cache
+C:\Users\13608\Documents\GitHub\Check-th-eamount-of-frog-jumps\obj\Debug\net8.0\ref\Check-th-eamount-of-frog-jumps.dll
